@@ -25,9 +25,7 @@ A Cota para o Exercício da Atividade Parlamentar é regida por uma série de re
 
 
 
-<a href="https://github.com/gabrielcincinato">
-      <img alt="Tests Passing" src="https://github.com/gabrielcincinato" />
->> <br>Gabriel Cincinato - <a href="https://github.com/gabrielcincinato">
+>> <br>Gabriel Cincinato - https://github.com/gabrielcincinato</br>
 >> <br>Jean Spínola - https://github.com/jeansevenz</br>
 >> <br>Pedro Barrozo - https://github.com/pedroandre1712</br> 
 >> <br>Samyr Ozibel - https://github.com/ozibel</br>
